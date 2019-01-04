@@ -4,7 +4,7 @@ end
 
 def array_with_two_elements
   newarray=["",""]
-end 
+end
 
 def first_element (array)
   array[0]
@@ -12,7 +12,7 @@ end
 
 def third_element (array)
   array[2]
-end 
+end
 
 def last_element (array)
   array[-1]
@@ -24,10 +24,8 @@ end
 
 def last_element_with_array_method (array)
   array.last
-end 
+end
 
 def length_of_array (array)
   array.length
-end 
-
-
+end
